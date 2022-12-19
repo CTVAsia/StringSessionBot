@@ -3,7 +3,7 @@
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Romeo-RJ-143/StringSessionBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CTVAsia/StringSessionBot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 
@@ -19,7 +19,7 @@
 
    ```markdown
 
-   git clone https://github.com/StarkBotsIndustries/StringSessionBot
+   git clone https://github.com/CTVAsia/StringSessionBot
 
    ```
 
@@ -80,6 +80,6 @@
 
 ## Support
 
-Channel :- [Support](https://t.me/RomeoBot_OP)
+Channel :- [Support](https://t.me/CTVAsia)
 
-Group Chat :- [Updates](https://t.me/Romeo_OP)
+Group Chat :- [Updates](https://t.me/CTVAsia)
